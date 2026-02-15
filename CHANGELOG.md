@@ -1,7 +1,7 @@
 # Changelog
 
-## 0.0.1
+## 0.0.2
 
 - Initial release
-- Added Kingdom Hearts Gold (Subtle)
-- Added Kingdom Hearts Silver (Subtle)
+- Added KH Gold (Subtle)
+- Added KH Silver (Subtle)
