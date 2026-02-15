@@ -1,11 +1,11 @@
-# Kingdom Hearts Theme Pack
+# KH Theme Pack
 
-Subtle, accessibility-minded Kingdom Hearts-inspired dark themes for VS Code.
+Subtle, accessibility-minded KH-inspired dark themes for VS Code.
 
 ## Themes
 
-- **Kingdom Hearts Gold (Subtle)**: midnight navy base, keyblade-gold accents, crystal-cyan highlights.
-- **Kingdom Hearts Silver (Subtle)**: steel-blue dark base, silver UI framing, restrained gold cues.
+- **KH Gold (Subtle)**: midnight navy base, keyblade-gold accents, crystal-cyan highlights.
+- **KH Silver (Subtle)**: steel-blue dark base, silver UI framing, restrained gold cues.
 
 ## Install Locally
 
@@ -29,3 +29,8 @@ Publisher setup docs: https://code.visualstudio.com/api/working-with-extensions/
 
 - Theme tokens cover core VS Code chrome, editor, diagnostics, and git/testing status semantics.
 - Some extension webviews (chat panels, custom dashboards) may only partially inherit theme tokens.
+
+
+## Disclaimer
+
+This is a fan-made, KH-inspired theme pack. It is not affiliated with, endorsed by, or sponsored by Disney or Square Enix.
