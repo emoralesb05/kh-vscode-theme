@@ -1,0 +1,48 @@
+{
+  "name": "kingdom-hearts-vscode-theme",
+  "displayName": "Kingdom Hearts Theme Pack",
+  "description": "Subtle Kingdom Hearts-inspired dark themes for VS Code: Gold and Silver variants with accessibility-minded contrast.",
+  "version": "0.0.1",
+  "publisher": "emoralesb05",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "kingdom hearts",
+    "a11y",
+    "high contrast"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emoralesb05/kh-vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kingdom Hearts Gold (Subtle)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kh-gold-color-theme.json"
+      },
+      {
+        "label": "Kingdom Hearts Silver (Subtle)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kh-silver-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.0"
+  },
+  "icon": "assets/icon.png",
+  "packageManager": "pnpm@10.6.2"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Kingdom Hearts Silver theme preview">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#1A2335"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="535" rx="16" fill="#101521" stroke="#4A5B76"/>
+  <rect x="70" y="70" width="1060" height="56" rx="16" fill="#1A2335"/>
+  <text x="100" y="106" fill="#D8C89A" font-size="24" font-family="Menlo, Consolas, monospace">Kingdom Hearts Silver (Subtle)</text>
+  <text x="100" y="170" fill="#F2F6FF" font-size="22" font-family="Menlo, Consolas, monospace">function</text>
+  <text x="220" y="170" fill="#8AD8FF" font-size="22" font-family="Menlo, Consolas, monospace">summonLight</text>
+  <text x="365" y="170" fill="#F2F6FF" font-size="22" font-family="Menlo, Consolas, monospace">()</text>
+  <text x="100" y="220" fill="#B2BED2" font-size="20" font-family="Menlo, Consolas, monospace">// Steel-blue dark mode with KH silver-gold accents</text>
+  <rect x="100" y="520" width="300" height="36" rx="8" fill="#C7D3E8"/>
+  <text x="116" y="545" fill="#0D111A" font-size="18" font-family="Menlo, Consolas, monospace">Status: Focused Build</text>
+</svg>
