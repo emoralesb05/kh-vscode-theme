@@ -7,16 +7,6 @@ Subtle, accessibility-minded Kingdom Hearts-inspired dark themes for VS Code.
 - **Kingdom Hearts Gold (Subtle)**: midnight navy base, keyblade-gold accents, crystal-cyan highlights.
 - **Kingdom Hearts Silver (Subtle)**: steel-blue dark base, silver UI framing, restrained gold cues.
 
-## Previews
-
-### Gold
-
-![Kingdom Hearts Gold Preview](./assets/screenshots/kh-gold-preview.svg)
-
-### Silver
-
-![Kingdom Hearts Silver Preview](./assets/screenshots/kh-silver-preview.svg)
-
 ## Install Locally
 
 ```bash
