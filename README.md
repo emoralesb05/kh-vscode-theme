@@ -1,10 +1,10 @@
 # KH Theme Pack
 
-Subtle, accessibility-minded KH-inspired dark themes for VS Code.
+Subtle, accessibility-minded fantasy-inspired dark themes for VS Code.
 
 ## Themes
 
-- **KH Gold (Subtle)**: midnight navy base, keyblade-gold accents, crystal-cyan highlights.
+- **KH Gold (Subtle)**: midnight navy base, warm gold accents, crystal-cyan highlights.
 - **KH Silver (Subtle)**: steel-blue dark base, silver UI framing, restrained gold cues.
 
 ## Install Locally
@@ -33,4 +33,4 @@ Publisher setup docs: https://code.visualstudio.com/api/working-with-extensions/
 
 ## Disclaimer
 
-This is a fan-made, KH-inspired theme pack. It is not affiliated with, endorsed by, or sponsored by Disney or Square Enix.
+This is an independent, fan-made theme pack. It is not affiliated with, endorsed by, or sponsored by any game studio or publisher.

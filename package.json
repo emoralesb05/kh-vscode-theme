@@ -1,7 +1,7 @@
 {
   "name": "kh-vscode-theme",
   "displayName": "KH Theme Pack",
-  "description": "Subtle KH-inspired dark themes for VS Code: Gold and Silver variants with accessibility-minded contrast.",
+  "description": "Subtle fantasy-inspired dark themes for VS Code: Gold and Silver variants with accessibility-minded contrast.",
   "version": "0.0.1",
   "publisher": "emoralesb05",
   "license": "MIT",
@@ -14,10 +14,10 @@
   "keywords": [
     "theme",
     "dark theme",
-    "kh",
-    "kh inspired",
+    "fantasy",
     "a11y",
-    "high contrast"
+    "high contrast",
+    "color theme"
   ],
   "repository": {
     "type": "git",
